@@ -1,0 +1,23 @@
+@import url("//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.1.1/css/bootstrap.css");
+@import url(http://fonts.googleapis.com/css?family=Denk+One);
+@import url("sticky-footer.css");
+
+
+ h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+    font-family: 'Denk One';
+ }
+.placeholder img {
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+}
+.placeholder {
+    margin:15px 0;
+}
+.default {
+	opacity: 1;
+}
+.removed {
+	opacity: .1;
+}
